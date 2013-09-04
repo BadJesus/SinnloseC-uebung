@@ -1,0 +1,15 @@
+Ausgleichung nach vermittelnden Beobachtungen
+---------------------------------------------
+
+Arbeitsverzeichnis: C:\Users\Tyroon\Desktop\Uebung 8\Uebung8\Uebung8\bin\Debug
+Eingabedatei: test.txt
+Protokolldatei: prot.txt
+Bearbeitungszeitpunkt: 01.09.2013 20:55:33
+
+Anzahl der Beobachtungen: 
+Anzahl der Unbekannten: 
+
+Koeffizientenmatrix:
+2,1243 -0,9615 0
+-0,9615 2,7499 -0,7246
+0 -0,7246 0,7246

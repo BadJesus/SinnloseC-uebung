@@ -1,0 +1,9 @@
+C:\Users\Tyroon\Desktop\Uebung 8\Uebung8\Uebung8\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Tyroon\Desktop\Uebung 8\Uebung8\Uebung8\obj\x86\Release\Uebung8.Form1.resources
+C:\Users\Tyroon\Desktop\Uebung 8\Uebung8\Uebung8\obj\x86\Release\Uebung8.Properties.Resources.resources
+C:\Users\Tyroon\Desktop\Uebung 8\Uebung8\Uebung8\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Tyroon\Desktop\Uebung 8\Uebung8\Uebung8\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Tyroon\Desktop\Uebung 8\Uebung8\Uebung8\bin\Release\Uebung8.exe
+C:\Users\Tyroon\Desktop\Uebung 8\Uebung8\Uebung8\bin\Release\Uebung8.pdb
+C:\Users\Tyroon\Desktop\Uebung 8\Uebung8\Uebung8\obj\x86\Release\Uebung8.exe
+C:\Users\Tyroon\Desktop\Uebung 8\Uebung8\Uebung8\obj\x86\Release\Uebung8.pdb
